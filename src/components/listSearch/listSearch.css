@@ -1,0 +1,31 @@
+.containerSearch{
+  width: 65%;
+  margin: 20px auto !important;
+  box-shadow: 1px 2px 10px 1px rgba(198, 196, 196, 0.7607843);
+  background: #f9f4f4;
+  padding: 10px;
+
+}
+
+.containerMain{
+  /* display: flex;
+  justify-content: center; */
+}
+
+.button{
+  margin-top: 18px;
+  width: 195px;
+}
+
+.containerSearchUser{
+  box-shadow: 1px 2px 10px 1px rgba(198, 196, 196, 0.7607843);
+  background: #f9f4f4;
+}
+
+.containerCheckbox{
+  margin: 20px 14px;
+}
+
+.containerCheckbox label{
+  margin-right: 10px;
+}

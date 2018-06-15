@@ -1,0 +1,85 @@
+.UserImg{
+  border-radius: 3px;
+  margin: 15px;
+  width: 200px;
+  height: 200px;
+  border: 1px solid #bdb6b6;
+}
+ .header{
+   background-color: #2bbbad;
+ }
+
+.containerImgUser{
+   border-radius: 3px;
+   flex: 3;
+   background: #f9f4f4;
+   margin-right: 20px;
+   align-self: flex-start;
+}
+
+.conteinerContextListUser{
+  display: flex;
+  max-width: 800px;
+  margin: 20px auto;
+}
+
+.containerAllListUser{
+  min-height: auto;
+  width: 100%;
+}
+
+.containerMainInfo{
+  flex: 7;
+  box-shadow: 1px 2px 10px 1px rgba(198, 196, 196, 0.7607843);
+  background: #f9f4f4;
+  margin-bottom: 20px;
+  padding-bottom: 5px;
+}
+
+.flex{
+  display: inline-flex;
+  width: 100%;
+  padding-left: 20px;
+  line-height: 0;
+}
+
+.flex p:last-child{
+  width: 360px;
+}
+
+.line-height{
+  line-height: 1;
+}
+
+
+.line{
+  border: 0.5px solid;
+  width: 66%;
+  /* margin-left: 20px; */
+}
+
+.titleInfo{
+  font-weight: bolder;
+}
+
+.flex p:first-child{
+  width: 150px;
+}
+
+.containerContactInfo{
+  box-shadow: 1px 2px 10px 1px rgba(198, 196, 196, 0.7607843);
+  background: #f9f4f4;
+  margin-bottom: 20px;
+  padding-bottom: 5px;
+}
+
+.containerPersonalInfo{
+  box-shadow: 1px 2px 10px 1px rgba(198, 196, 196, 0.7607843);
+  background: #f9f4f4;
+  margin-bottom: 20px;
+  padding-bottom: 5px;
+}
+
+.firstLastName{
+  border-bottom: 1px solid #bdb6b6;
+}
